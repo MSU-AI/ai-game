@@ -194,3 +194,13 @@ Start importing Assets/PlayerMat.mat using Guid(ef105f839c15512459273bceab334909
  -> (artifact id: '0bd091e942c7dea66e93b21f702b7fd6') in 0.157754 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 678.492103 seconds.
+  path: Assets/PlayerMat.mat
+  artifactKey: Guid(ef105f839c15512459273bceab334909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMat.mat using Guid(ef105f839c15512459273bceab334909) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5748ffa420b6c8d8d88a50aa7ac938eb') in 0.024361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
