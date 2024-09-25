@@ -1,0 +1,300 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\Unity.Settings.Editor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\Unity.Settings.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\Unity.Settings.Editor.csproj",
+        "projectName": "Unity.Settings.Editor",
+        "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\Unity.Settings.Editor.csproj",
+        "packagesPath": "C:\\Users\\Ja151\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\Temp\\obj\\Debug\\Unity.Settings.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ja151\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.TestRunner.csproj"
+              },
+              "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.UI.csproj": {
+                "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.UI.csproj"
+              },
+              "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.TestRunner.csproj"
+              },
+              "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Ja151\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\Temp\\obj\\Debug\\UnityEditor.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ja151\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\Ja151\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\Temp\\obj\\Debug\\UnityEditor.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ja151\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEditor.TestRunner.csproj"
+              },
+              "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.TestRunner.csproj"
+              },
+              "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Ja151\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\Temp\\obj\\Debug\\UnityEngine.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ja151\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\Ja151\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ja151\\Downloads\\Unity\\ai-game\\Temp\\obj\\Debug\\UnityEngine.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ja151\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
