@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CLEANSE(Level-Design).sln"
+    "dotnet.defaultSolution": "ai-game.sln"
 }
