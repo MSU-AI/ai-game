@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Interactable
   layers:
   - Default
   - TransparentFX
@@ -15,6 +17,7 @@ TagManager:
   - 
   - 
   - 
+  - Controller
   - 
   - 
   - 
@@ -22,11 +25,10 @@ TagManager:
   - 
   - 
   - 
+  - Character
   - 
-  - 
-  - 
-  - 
-  - 
+  - Character Collision Blocker
+  - Player
   - 
   - 
   - 

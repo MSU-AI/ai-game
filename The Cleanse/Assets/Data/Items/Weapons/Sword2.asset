@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8050405aaee566744b05be7ace6012ff, type: 3}
+  m_Name: Sword2
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: b086dabf5b82b8e46a53c2654eabc7e3, type: 3}
+  itemName: Steam Sword
+  modelPrefab: {fileID: 4266871657357176213, guid: 2300fb4e7267b2445a6eb4c888853781, type: 3}
+  isUnarmed: 0
+  right_Hand_Idle: right_Hand_Idle
+  left_Hand_Idle: left_Hand_Idle
+  th_Idle: TH_Idle_01
+  OH_Light_Attack_01: OH_Light_Attack_01
+  OH_Light_Attack_02: OH_Light_Attack_02
+  OH_Heavy_Attack_01: OH_Heavy_Attack_01
+  TH_Light_Attack_01: TH_Light_Attack_01
+  TH_Light_Attack_02: TH_Light_Attack_02
+  TH_Heavy_Attack_01: TH_Heavy_Attack_01
