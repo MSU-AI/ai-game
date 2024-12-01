@@ -1,0 +1,29 @@
+{
+    "CombatBehavior": {
+        "checkpoints": [
+            {
+                "steps": 73728,
+                "file_path": "results\\combat_training_1\\CombatBehavior\\CombatBehavior-73728.onnx",
+                "reward": null,
+                "creation_time": 1733090295.9952972,
+                "auxillary_file_paths": [
+                    "results\\combat_training_1\\CombatBehavior\\CombatBehavior-73728.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 73728,
+            "file_path": "results\\combat_training_1\\CombatBehavior.onnx",
+            "reward": null,
+            "creation_time": 1733090295.9952972,
+            "auxillary_file_paths": [
+                "results\\combat_training_1\\CombatBehavior\\CombatBehavior-73728.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
